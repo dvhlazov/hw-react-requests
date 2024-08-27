@@ -1,0 +1,11 @@
+.content {
+   background-color: #fff;
+   padding: 10px;
+}
+.email {
+   color: blue;
+   cursor: pointer;
+}
+.items {
+   padding-top: 10px;
+}
